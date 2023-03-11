@@ -5,7 +5,10 @@ Technologie:
 
 
 Instrukcja:
-W celu uruchomienia programy należy uruchomić metodę main() w klasie FileSorterApp.
+W celu uruchomienia programu należy uruchomić metodę main() w klasie FileSorterApp.
+Można również uruchomić aplikację poprzez archiwum .jar wpisując poniższe komendy w terminalu, w folderze z aplikacją:
+- mvn clean install
+- java -cp target\filesorter-1.0-SNAPSHOT.jar pl.pretius.FileSorterApp
 
 
 Opis:
