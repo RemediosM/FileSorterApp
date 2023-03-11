@@ -1,0 +1,3 @@
+All: 3
+DEV: 2
+TEST: 1
